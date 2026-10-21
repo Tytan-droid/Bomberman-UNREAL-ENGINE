@@ -1,0 +1,11 @@
+﻿p4config.txt
+.vs/
+.idea/
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+*.VC.db
+*.opendb
+*.suo
