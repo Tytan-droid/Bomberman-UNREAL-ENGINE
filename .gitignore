@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.log
+*.vsconfig
+*.pdb
+*.db
+*.mdb
+*.cache
+*.tmp
+*.bak
+*.generated.*
